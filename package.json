@@ -1,0 +1,27 @@
+{
+  "name": "vetro",
+  "version": "1.0.0",
+  "description": "cateva lucruri legate unele de altele",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kosson/vetro.git"
+  },
+  "keywords": [
+    "module",
+    "conexiuni",
+    "teste"
+  ],
+  "author": "Constantinescu Nicolaie <kosson@gmail.com> (http://www.kosson.ro/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kosson/vetro/issues"
+  },
+  "homepage": "https://github.com/kosson/vetro#readme",
+  "dependencies": {
+    "unique-random-array": "1.0.0"
+  }
+}
